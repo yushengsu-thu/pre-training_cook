@@ -12,5 +12,5 @@
 - [Advancing LLM Reasoning Generalists with Preference Trees](https://arxiv.org/pdf/2404.02078.pdf): sft, preference tuning
 
 ## Reasoning: weaker-to-stronger, sel-tuning, self-learning
-- [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/pdf/2403.09629.pdf)
-- [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning](https://arxiv.org/pdf/2403.09629.pdf)
+- [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/pdf/2403.09629)
+- [STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)
